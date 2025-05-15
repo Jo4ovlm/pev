@@ -1,0 +1,194 @@
+Unnamed: 0;PEV;Cidade;Endereço;Ponto de Referência;CidadeExtraida;Endereço2;latitude;longitude
+0;PEV  1;PEV 1  ALFREDO WAGNER;Rua Anitápolis, 199 ;Praça da Bandeira;ALFREDO WAGNER;ALFREDO WAGNER, Rua Anitápolis, 199;-27.7012801;-49.3341594
+1;PEV  2;PEV 2  ALFREDO WAGNER;Rua do Comércio, 277;Posto de Gasolina ALE;ALFREDO WAGNER;ALFREDO WAGNER, Rua do Comércio, 277;-27.6972612;-49.3339009
+2;PEV  3;PEV 3  LEOBERTO LEAL;Rua Aquino de Campos, 77 ; Praça Silveira F. de Campos;LEOBERTO LEAL;LEOBERTO LEAL, Rua Aquino de Campos, 77;-27.5072225;-49.2862855
+3;PEV  4;PEV 4  MAJOR GERCINO;SC 408, número 30;;MAJOR GERCINO;MAJOR GERCINO, SC 408, número 30;-27.4229462;-48.9576957
+4;PEV  5;PEV 5  ANITÁPOLIS;Rua Manoel Moraes Teodoro, 239; Praça Roberto Beppler e Em frente da Rua Coberta;ANITÁPOLIS;ANITÁPOLIS, Rua Manoel Moraes Teodoro, 239;-27.9041265;-49.1281314
+5;PEV  6;PEV 6  SÃO BONIFÁCIO;Rua Padre Sebastião a Van Lieshout;Em frente ao Estádio de Futebol e ao lado do Pavilhão de Eventos e Ginásio de Esportes;SÃO BONIFÁCIO;SÃO BONIFÁCIO, Rua Padre Sebastião a Van Lieshout;-27.9002453;-48.9283849
+6;PEV  7;PEV 7  RANCHO QUEIMADO;Rua Romanos Goedert, 1175;Praça Teófilo Schulz  - Taquaras;RANCHO QUEIMADO;RANCHO QUEIMADO, Rua Romanos Goedert, 1175;-27.6418608;-49.1096089
+7;PEV  8;PEV 8  RANCHO QUEIMADO;DEFINIR LOCAL;;RANCHO QUEIMADO;RANCHO QUEIMADO, DEFINIR LOCAL;-27.6734753;-49.0125454
+8;PEV  9;PEV 9  RANCHO QUEIMADO;Rua Doná Lia, 1040 ;Esquina Rua Geral de Rancho Queinado 237 - Praça Leonardo Sell;RANCHO QUEIMADO;RANCHO QUEIMADO, Rua Doná Lia, 1040;-27.67273;-49.0129852
+9;PEV  10;PEV 10   SÃO PEDRO DE ALCÂNTARA;Rua João Pering, 2428 ; Praça João Adalgisio Philippi;SÃO PEDRO DE ALCÂNTARA;SÃO PEDRO DE ALCÂNTARA, Rua João Pering, 2428;-27.5686193;-48.80589879999999
+10;PEV  11;PEV 11  SÃO PEDRO DE ALCÂNTARA;Rua Vidal João Vieira, 696 – SC 281;Instalado em Dezembro 2023;SÃO PEDRO DE ALCÂNTARA;SÃO PEDRO DE ALCÂNTARA, Rua Vidal João Vieira, 696 – SC 281;-27.5635716;-48.7994219
+11;PEV  12;PEV 12  SÃO PEDRO DE ALCÂNTARA;SC 281 nº 6684 – Acesso Hospital;Acesso Hospital Santa Tereza;SÃO PEDRO DE ALCÂNTARA;SÃO PEDRO DE ALCÂNTARA, SC 281 nº 6684 – Acesso Hospital;-27.5687612;-48.75314239999999
+12;PEV  13;PEV 13  ANTÔNIO CARLOS;Rua João Henrique Pauli, 557;Posto de combustível - Instalado em Dezembro 2023;ANTÔNIO CARLOS;ANTÔNIO CARLOS, Rua João Henrique Pauli, 557;-27.5185048;-48.7740653
+13;PEV  14;PEV 14  ANTÔNIOCARLOS;Rod. João Adão Reitz, 119 ;Praça Anchieta;ANTÔNIOCARLOS;ANTÔNIOCARLOS, Rod. João Adão Reitz, 119;-27.5168589;-48.7677454
+14;PEV  15;PEV 15  ANTONIO CARLOS;Rua Daniel Petry, 578;Supermercados FF;ANTONIO CARLOS;ANTONIO CARLOS, Rua Daniel Petry, 578;-27.5138878;-48.76343139999999
+15;PEV  16;PEV 16  NOVA TRENTO;Rua Alferes Trinta- Réis,  1041;Oratório do Calvário;NOVA TRENTO;NOVA TRENTO, Rua Alferes Trinta- Réis,  1041;-27.2951468;-48.9408637
+16;PEV  17;PEV 17  NOVA TRENTO;Rua Santo Inácio, 143 ; Praça da Cidade;NOVA TRENTO;NOVA TRENTO, Rua Santo Inácio, 143;-27.2859347;-48.930221
+17;PEV  18;PEV 18  NOVA TRENTO;Rua Nicolau Babo 244; Supermercado Arche;NOVA TRENTO;NOVA TRENTO, Rua Nicolau Babo 244;-27.2504763;-48.9423737
+18;PEV  19;PEV 19  NOVA TRENTO;Rua Madre Paulina, 26 - Cascata;Esquina com Rua Luiz Busnardo, 488 - Academia Oficina do Corpo - Instalado em Dezembro 2023;NOVA TRENTO;NOVA TRENTO, Rua Madre Paulina, 26 - Cascata;-27.2781395;-48.93763149999999
+19;PEV  20;PEV 20  SÃO JOÃO BATISTA;Rua João Nicolodi ;Praça Eduardo Alfredo Porto - Instalado em Dezembro 2023;SÃO JOÃO BATISTA;SÃO JOÃO BATISTA, Rua João Nicolodi;-27.2798326;-48.8327512
+20;PEV  21;PEV 21  SÃO JOÃO BATISTA;Rua Padre Januário, 132 ;Praça Capitão Amorim;SÃO JOÃO BATISTA;SÃO JOÃO BATISTA, Rua Padre Januário, 132;-27.2765567;-48.8490723
+21;PEV  22;PEV 22 SÃO JOÃO BATISTA;Rua Mal Floriano Peixoto, 217;Ginásio de Esportes Nilo Booz;SÃO JOÃO BATISTA;SÃO JOÃO BATISTA, Rua Mal Floriano Peixoto, 217;-27.2695442;-48.85130110000001
+22;PEV  23;PEV 23  SÃO JOÃO BATISTA;Rua Getúlio Vargas, 909;Supermercados Komprão Atacadista;SÃO JOÃO BATISTA;SÃO JOÃO BATISTA, Rua Getúlio Vargas, 909;-27.2654338;-48.84503669999999
+23;PEV  24;PEV 24  CANELINHA;Av. Cantório Florentino da Silva,1666 ;Ao lado da Prefeitura de Canelinha  e na frente da  Praça da Igreja Matriz – ;CANELINHA;CANELINHA, Av. Cantório Florentino da Silva,1666;-27.2666484;-48.7664322
+24;PEV  25;PEV 25  CANELINHA;Av. Prefeito Silvestre Nunes Junior, 201;Mercado e Panificadora Atrativa;CANELINHA;CANELINHA, Av. Prefeito Silvestre Nunes Junior, 201;-27.2615571;-48.7673532
+25;PEV  26;PEV 26  TIJUCAS;Rua São Sebastião, 260 - ;Ginasio de Esporte João Madalena - Capela Nossa Senhora dos Navegantes;TIJUCAS;TIJUCAS, Rua São Sebastião, 260 -;-27.2413358;-48.6176884
+26;PEV  27;PEV 27  TIJUCAS;Avenida Paineiras - Esquina com rua Figueira;Alterado em dezembro de 2023;TIJUCAS;TIJUCAS, Avenida Paineiras - Esquina com rua Figueira;-27.2288818;-48.6463893
+27;PEV  28;PEV 28  TIJUCAS;Rua Otávio Merlin, 29 ; Esquina com Rua Pedro Eulálio, 315 – SC 410 ;TIJUCAS;TIJUCAS, Rua Otávio Merlin, 29;-27.2548922;-48.6618399
+28;PEV  29;PEV 29  TIJUCAS;Rua Coronel Izidoro, 1231 ;Esquina com a Rua Paraná, 25 - Instalado em Dezembro 2023;TIJUCAS;TIJUCAS, Rua Coronel Izidoro, 1231;-27.2386281;-48.6438015
+29;PEV  30;PEV 30  TIJUCAS;Av. Coleira, 292;alterado a pedido da Prefeitura;TIJUCAS;TIJUCAS, Av. Coleira, 292;-27.2310535;-48.6262572
+30;PEV  31;PEV 31  TIJUCAS;Rua Jucy dos Anjos, 319; Praça Odilon - Rua Irene P Barreto;TIJUCAS;TIJUCAS, Rua Jucy dos Anjos, 319;-27.2380398;-48.63473889999999
+31;PEV  32;PEV 32  GOVERNADOR CELSO RAMOS;Rua Nicolau Moura de Carvalho, 215 – Rodovia SC 410 ;Praça de Areias de Baixo e em frente da Panificadora Zulbel;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua Nicolau Moura de Carvalho, 215 – Rodovia SC 410;-27.418467;-48.596647
+32;PEV  33;PEV 33  GOVERNADOR CELSO RAMOS;Rua Gerino Belmiro dos Santos, 481  – Rodovia SC 410;Estrada Geral da Armação - Praça Gabriel Tomaz da Silva e Marina São Sebatião;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua Gerino Belmiro dos Santos, 481  – Rodovia SC 410;-27.3661674;-48.55665210000001
+33;PEV  34;PEV 34  GOVERNADOR CELSO RAMOS;Rua Rosendo Joaquim Sagas, 1214 ; Vila de Palmas - AERP - Associação Recreativa e Esportiva;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua Rosendo Joaquim Sagas, 1214;-27.3329781;-48.545837
+34;PEV  35;PEV 35  GOVERNADOR CELSO RAMOS;Rua dos Pampos, 410 ;Associação Moradores de Palmas -  Praça Imepal – Palmas;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua dos Pampos, 410;-27.3315616;-48.5368664
+35;PEV  36;PEV 36  GOVERNADOR CELSO RAMOS;Av. Irineu Bornhausen, 700 ;Palmas Clube - Restaurante Arvoredo;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Av. Irineu Bornhausen, 700;-27.3279664;-48.54100709999999
+36;PEV  37;PEV 37  GOVERNADOR CELSO RAMOS;Rua dos Coqueiros, 18 ; Praça – Praia de Palmas do Arvoredo - Peixaria Santos;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua dos Coqueiros, 18;-27.3216127;-48.5419967
+37;PEV  38;PEV 38  GOVERNADOR CELSO RAMOS;Av Nossa Senhora da Piedade, 111 - Praia da Armação da Piedade;Entre o Ponto de Ônibus e a Igreja - Instalado em Dezembro 2023;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Av Nossa Senhora da Piedade, 111 - Praia da Armação da Piedade;-27.3786841;-48.534726
+38;PEV  39;PEV 39  GOVERNADOR CELSO RAMOS;Av Ganchos, 795 ; Praça 06 de Novembro - Instalado em Dezembro 2023;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Av Ganchos, 795;-27.3141353;-48.5532607
+39;PEV  40;PEV 40  GOVERNADOR CELSO RAMOS;Rodovia Municipal Francisco Wollinger, KM 04;Bernardo Automóveis - Instalado em Abril 2024;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rodovia Municipal Francisco Wollinger, KM 04;-27.3170911;-48.561472
+40;PEV  41;PEV 41  GOVERNADOR CELSO RAMOS;Av das Caravelas. 493 – Praia Grande;Esquina com Rua Larus - Usar Vaga de carro - Praia Grande - Instalado em Dezembro 2023;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Av das Caravelas. 493 – Praia Grande;-27.3648177;-48.5366374
+41;PEV  42;PEV 42  GOVERNADOR CELSO RAMOS;Rua Nicolau Moura Carvalho, 3870 – SC 410;Em frente da Igreja Sant'Ana - Instalado em Dezembro 2023;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua Nicolau Moura Carvalho, 3870 – SC 410;-27.4279933;-48.5919704
+42;PEV  43;PEV 43  GOVERNADOR CELSO RAMOS;Rodovia Municipal Francisco Wollinger, 203;Supermercado Prado e Posto de Combustível – Entrada da cidade com BR 101 - Instalado em Abril 2024;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rodovia Municipal Francisco Wollinger, 203;-27.3147386;-48.55710939999999
+43;PEV  44;PEV 44  BIGUAÇU;Rua Treze de Maio, 313;Ao lado da Unidade Basica de Saúde Prado e do Supermercados Prado ;BIGUAÇU;BIGUAÇU, Rua Treze de Maio, 313;-27.4860172;-48.6548659
+44;PEV  45;PEV 45  BIGUAÇU; Rua Getúlio Vargas, 319 - Bairro Universitários;Em frente ao Campo do BAC e Terminal Rodoviário de Biguaçu;BIGUAÇU;BIGUAÇU, Rua Getúlio Vargas, 319 - Bairro Universitários;-27.4978566;-48.65747959999999
+45;PEV  46;PEV 53 BIGUAÇU;Rua Kilano Kremer, 333 – Rio Caveiras;;BIGUAÇU;BIGUAÇU, Rua Kilano Kremer, 333 – Rio Caveiras;-27.5092873;-48.6505575
+46;PEV  47;PEV 47  BIGUAÇU;Rua Francisco Roberto da Silva, 123 -;Lado contrário a Praça Marcondes de Matos - Praia João Rosa;BIGUAÇU;BIGUAÇU, Rua Francisco Roberto da Silva, 123 -;-27.5051956;-48.6468031
+47;PEV  48;PEV 48  BIGUAÇU;Av. Rua Cônego Rodolfo Machado –  Rio Caveiras;Praça Rio Caveiras;BIGUAÇU;BIGUAÇU, Av. Rua Cônego Rodolfo Machado –  Rio Caveiras;-27.5090452;-48.6474012
+48;PEV  49;PEV 49 BIGUAÇU;Rua Dr. Tancredo Neves, 505 - Jardim Janaina;Igreja Católica Santa Terezinha e São José;BIGUAÇU;BIGUAÇU, Rua Dr. Tancredo Neves, 505 - Jardim Janaina;-27.5248823;-48.6441347
+49;PEV  50;PEV 50 BIGUAÇU;Rua Homero de Miranda Gomes, 2716 ; Esquina com rua Domingos Antônio Zimmerman, 25 - Padaria Frei Santo Antônio;BIGUAÇU;BIGUAÇU, Rua Homero de Miranda Gomes, 2716;-27.5300721;-48.6433683
+50;PEV  51;PEV 51 BIGUAÇU;Rua João Pessoa, 01 – Centro;Praça Nereu Ramos;BIGUAÇU;BIGUAÇU, Rua João Pessoa, 01 – Centro;-27.4951578;-48.6546721
+51;PEV  52;PEV 52 BIGUAÇU;Rua Nossa Senhora dos Navegantes, 288 ;Esquina com Rua Tibagi;BIGUAÇU;BIGUAÇU, Rua Nossa Senhora dos Navegantes, 288;-27.5098589;-48.6392224
+52;PEV  53;PEV 53 BIGUAÇU;Rua Valentim Vieira, 1155 - Serraria ;ao lado Atacado do Turco e Baterias Maxxim – Marginal BR 101;BIGUAÇU;BIGUAÇU, Rua Valentim Vieira, 1155 - Serraria;-27.5078879;-48.6460348
+53;PEV  54;PEV 54  ÁGUAS MORNAS;Avenida Cel Antônio Lehmkhul, 1219 ;ao lado Supermercado Irmãos Lehmkhul;ÁGUAS MORNAS;ÁGUAS MORNAS, Avenida Cel Antônio Lehmkhul, 1219;-27.6954728;-48.8240877
+54;PEV  55;PEV 55  ÁGUAS MORNAS;Av. Cel Antônio Lehmkhul, 490; Praça José Adão Lehmkuhul e Prefeitura Municipal;ÁGUAS MORNAS;ÁGUAS MORNAS, Av. Cel Antônio Lehmkhul, 490;-27.6996296;-48.8167005
+55;PEV  56;PEV 56  ÁGUAS MORNAS;Rua Prefeito Germano José Steimbach, 1272;Igreja Santa Terezinha do Menino Jesus;ÁGUAS MORNAS;ÁGUAS MORNAS, Rua Prefeito Germano José Steimbach, 1272;-27.7109288;-48.85268199999999
+56;PEV  57;PEV 57  SANTO AMARO DA IMPERATRIZ;Rua Beira Rio, 522;Em frente a Praça José Rodolfo Turnes e o Centro de Convivência da Melhor Idade ;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua Beira Rio, 522;-27.6871783;-48.7754801
+57;PEV  58;PEV 58  SANTO AMARO DA IMPERATRIZ;Rua da Natividade, 3739 / Rua Intendente Broering, 186;Ao lado da Pista de Skate Thiers Melquiades Elias;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua da Natividade, 3739 / Rua Intendente Broering, 186;-27.6825898;-48.7579165
+58;PEV  59;PEV 59  SANTO AMARO DA IMPERATRIZ;Rua Jorn. Alírio Bossle;Prefeitura Municipal - Instalado em Dezembro 2023;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua Jorn. Alírio Bossle;-27.6865129;-48.7775987
+59;PEV  60;PEV 60  SANTO AMARO DA IMPERATRIZ;Rua São Sebastião, 4430 – Sul do Rio;Centro de Educação Infantil Recanto Feliz;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua São Sebastião, 4430 – Sul do Rio;-27.6923447;-48.73209019999999
+60;PEV  61;PEV 61  SANTO AMARO DA IMPERATRIZ;Rua Intendente Broering, 2873;Esquina com Rua Major Téofilo Huntermann - Instalado em Dezembro 2023;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua Intendente Broering, 2873;-27.6831288;-48.7501504
+61;PEV  62;PEV 62  SANTO AMARO DA IMPERATRIZ;Rua Júlio Jacob Broering, 1;Centro de Educação Infantil Maria Regina dos Santos - Instalado em Dezembro 2023;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua Júlio Jacob Broering, 1;-27.675067;-48.7744943
+62;PEV  63;PEV 63  SANTO AMARO DA IMPERATRIZ;R. Pres. Castelo Branco, 216 ;Em frente ao Condomínio Palmas da Imperatriz;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, R. Pres. Castelo Branco, 216;-27.6795451;-48.7509953
+63;PEV  64;PEV 64   SÃO PEDRO DE ALCÂNTARA;Rua Diácomo Braz Hillesheim, 400 - São Sebastião;Em frente a Capela são Sebastião - INSTALAR;SÃO PEDRO DE ALCÂNTARA;SÃO PEDRO DE ALCÂNTARA, Rua Diácomo Braz Hillesheim, 400 - São Sebastião;-27.6177993;-48.8097825
+64;PEV  65;PEV 65  SANTO AMARO DA IMPERATRIZ;Rua Intendente Broering, 3169;No Lado direito do pátio Supermercado Santo Amaro. No local onde estão as motos. Instalado em Abril 2024;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua Intendente Broering, 3169;-27.6824181;-48.752984
+65;PEV  66;Angelina;Rua da Gruta, 74 - Centro;Centro;;;-27.58383869894946; -48.98292748705292
+66;PEV  67;PEV 67  SANTO AMARO DA IMPERATRIZ;Rua João Jacinto Machado, 1;Futuro Posto de Saúde - Instalado em Abril 2024;SANTO AMARO DA IMPERATRIZ;SANTO AMARO DA IMPERATRIZ, Rua João Jacinto Machado, 1;-27.6915552;-48.7766235
+67;PEV  68;PEV 68  ANITÁPOLIS;Em frente a Central de Triagem de Anitápolis;instalado;ANITÁPOLIS;ANITÁPOLIS, Em frente a Central de Triagem de Anitápolis;-27.9049852;-49.1284627
+68;PEV  69;PEV 69  ANITÁPOLIS;Rua Emilio Pedro Beppler, 782 - SC – 281 nº 37;Bar e Lanchonete Vila Nova - Instalado em Abril 2024;ANITÁPOLIS;ANITÁPOLIS, Rua Emilio Pedro Beppler, 782 - SC – 281 nº 37;-27.513582;-49.4001579
+69;PEV  70;PEV 70  ALFREDO WAGNER;Rua Projetada Dois, 56;Colocar na rua na vaga de carro - Instalado em Dezembro 2023;ALFREDO WAGNER;ALFREDO WAGNER, Rua Projetada Dois, 56;-27.6996765;-49.3344838
+70;PEV  71;PEV 71  PALHOÇA;Rodovia Evadio Paulo  Broering S/N - Esquina com Rua Hortêncio Pedro Antunes - Praia da Pinheira.;;PALHOÇA;PALHOÇA, Rodovia Evadio Paulo  Broering S/N - Esquina com Rua Hortêncio Pedro Antunes - Praia da Pinheira.;-27.8651203;-48.6022475
+71;PEV  72;PEV 72  PALHOÇA;Avenida Cárdida F.  da Rosa, 581 - Pinheira;Legendário Moto clube - Colocar na rua - Instalado em Dezembro 2023;PALHOÇA;PALHOÇA, Avenida Cárdida F.  da Rosa, 581 - Pinheira;-27.8597453;-48.6028663
+72;PEV  73;PEV 73  PALHOÇA;Av.do Papagaio, 362 - ; Rotula com Rodovia Evádio Paulo Broering, 973 - Praia Ponta dos Papagaio;PALHOÇA;PALHOÇA, Av.do Papagaio, 362 -;-27.845381;-48.5882903
+73;PEV  74;PEV 74  PALHOÇA;Rodovia Evadio Paulo Broering, 2799 ;Posto do sonho - Ipiranga - Praia do sonho ;PALHOÇA;PALHOÇA, Rodovia Evadio Paulo Broering, 2799;-27.8322616;-48.5953349
+74;PEV  75;PEV 75  PALHOÇA;Avenida José Bonifácio – Praia do Pontal;Praça do Pontal - Instalado em Dezembro 2023;PALHOÇA;PALHOÇA, Avenida José Bonifácio – Praia do Pontal;-27.7163937;-48.6434201
+75;PEV  76;PEV 76  PALHOÇA;Rua Hercílio Nicolau dos Santos, 725 – Esquina com José Plácido Martins, 714;Guarda Do Embaú;PALHOÇA;PALHOÇA, Rua Hercílio Nicolau dos Santos, 725 – Esquina com José Plácido Martins, 714;-27.9016187;-48.5963831
+76;PEV  77;PEV 77  PALHOÇA;Rua Monte Cambirela, 364;Em frente ao supermercado dona Bela -ia de Fora;PALHOÇA;PALHOÇA, Rua Monte Cambirela, 364;-27.7511452;-48.6292367
+77;PEV  78;PEV 78  PALHOÇA;Avenida Pedra Branca, 1022 - Pedra Branca;Entre Restaurante Tosh e Imobiliária Roque;PALHOÇA;PALHOÇA, Avenida Pedra Branca, 1022 - Pedra Branca;-27.6245939;-48.6795223
+78;PEV  79;PEV 79  PALHOÇA;Rua José Maria da Luz, 220;Praça 7 de Setembro - Colocar Ao lado do contentor ;PALHOÇA;PALHOÇA, Rua José Maria da Luz, 220;-27.6461261;-48.6664784
+79;PEV  80;PEV 80  PALHOÇA;Rua Brusque, 19;Centro de Saúde Vila Nova - Barra do Aririu;PALHOÇA;PALHOÇA, Rua Brusque, 19;-27.683604;-48.6554481
+80;PEV  81;PEV 81  PALHOÇA;Rua Manoel Matins, 49 ;Praia da Pinheira;PALHOÇA;PALHOÇA, Rua Manoel Matins, 49;-27.705653;-48.652939
+81;PEV  82;PEV 82  PALHOÇA;Rua Roberto Sell, 52;Supermercados Santos;PALHOÇA;PALHOÇA, Rua Roberto Sell, 52;-27.6568152;-48.6729074
+82;PEV  83;PEV 83  PALHOÇA;Av. Prefeito Nelson Martins, 1623;Ginásio de Esportes João Ivo Martins ;PALHOÇA;PALHOÇA, Av. Prefeito Nelson Martins, 1623;-27.6529498;-48.6724547
+83;PEV  84;PEV 84  PALHOÇA;Rua Caetano da Silveira de Matos, 2620 ; Ao lado do Mercado Municipal da Palhoça;PALHOÇA;PALHOÇA, Rua Caetano da Silveira de Matos, 2620;-27.6439698;-48.6650637
+84;PEV  85;PEV 85  PALHOÇA;Rua Vilma Ramos de Souza, 45;Praça Quinze de Novembro - Esquina com ruas  Tenente Francisco Lehmkhul e João Born;PALHOÇA;PALHOÇA, Rua Vilma Ramos de Souza, 45;-27.6415703;-48.6639941
+85;PEV  86;PEV 86  PALHOÇA;Rua Mil Quinhentos e Nove – Enseada do Brito;Em frente à Igreja;PALHOÇA;PALHOÇA, Rua Mil Quinhentos e Nove – Enseada do Brito;-27.7792055;-48.6326147
+86;PEV  87;PEV 87  PALHOÇA;Rua Antonio Vieira, 550 ;AERPI – Associação Esportiva e Recreativa Ponte de Imaruim;PALHOÇA;PALHOÇA, Rua Antonio Vieira, 550;-27.633423;-48.6536997
+87;PEV  88;PEV 88  PALHOÇA;Rua Trinta e um de Março, 97 ;Praça Ponte de Imarui em frente Ginásio de Esporte;PALHOÇA;PALHOÇA, Rua Trinta e um de Março, 97;-27.6313805;-48.6484025
+88;PEV  89;PEV 89  PALHOÇA;Avenida Anicleto Zacchi, 147 ;Ponte do Imaruím - Ao lado do Supermercados Imperatriz;PALHOÇA;PALHOÇA, Avenida Anicleto Zacchi, 147;-27.6340034;-48.6441785
+89;PEV  90;PEV 90  PALHOÇA;Av. Bom Jesus de Nazaré, 1140 - ;Bairro Aririu - Em frente Restaurante & Choperia MEGA RANGOI;PALHOÇA;PALHOÇA, Av. Bom Jesus de Nazaré, 1140 -;-27.6739301;-48.6770218
+90;PEV  91;PEV 91  PALHOÇA;Rua Sebastião Alzemiro dos Santos;Em frente ao Residencial Orquídeas rotula da Av. Paulo Roberto Vidal -Caminho Novo  - Alterado em Dezembro 2023;PALHOÇA;PALHOÇA, Rua Sebastião Alzemiro dos Santos;-27.6488705;-48.7056893
+91;PEV  92;PEV 92  PALHOÇA;Rua Germano Spricigo, 859 ;Em frente ao Centro de Saúde Caminho Novo - ;PALHOÇA;PALHOÇA, Rua Germano Spricigo, 859;-27.6454517;-48.68438949999999
+92;PEV  93;PEV 93  PALHOÇA;Avenida das Tipuanas, 1280;São Sebastião - Ao lado do Centro de Saúde Madri;PALHOÇA;PALHOÇA, Avenida das Tipuanas, 1280;-27.6413017;-48.7035084
+93;PEV  94;PEV 94  PALHOÇA;Rua dos Lagos, 265 - Aririu;Parque da Barra do Aririú - Instalado em Abril 2024;PALHOÇA;PALHOÇA, Rua dos Lagos, 265 - Aririu;-27.6718497;-48.6868867
+94;PEV  95;PEV 95  PALHOÇA;Rua José Cosme Pamplona, 2346  - Bela Vista;Choperia Bar - Instalado em Abril 2024 ;PALHOÇA;PALHOÇA, Rua José Cosme Pamplona, 2346  - Bela Vista;-27.6581053;-48.6920466
+95;PEV  96;PEV 96  PALHOÇA;Rua Valdemar Vieira, 1450;Jardeim Eldorado - ao lado da Capela Nossa Senhora do Rosário;PALHOÇA;PALHOÇA, Rua Valdemar Vieira, 1450;-27.6199141;-48.66553039999999
+96;PEV  97;PEV 97  PALHOÇA;Av. Pedra Branca, 1022 ;Cidade Universitária Pedra Branca - Em frente da Farmácia Raia ;PALHOÇA;PALHOÇA, Av. Pedra Branca, 1022;-27.6245939;-48.6795223
+97;PEV  98;PEV 98  PALHOÇA;Rua Vitor Meireles, 552 ;Praça Centro de Saúde Jardim Eldorado ;PALHOÇA;PALHOÇA, Rua Vitor Meireles, 552;-27.6265826;-48.6637869
+98;PEV  99;PEV 99  PALHOÇA;Avenida Hilza Therezinha Pagani, 280;Prefeitura Municipal da Palhoça;PALHOÇA;PALHOÇA, Avenida Hilza Therezinha Pagani, 280;-27.6406832;-48.679112
+99;PEV  100;PEV 100  PALHOÇA;Rua Alcino Navegantes Moreira, 4064 ;Supermercados Hiperbom - Esquina com Rua Frei Henrique de Coimbra, 1;PALHOÇA;PALHOÇA, Rua Alcino Navegantes Moreira, 4064;-27.6724774;-48.64981
+100;PEV  101;PEV 101  PALHOÇA;Avenida Vidal Procópio Lohn, 1081;Em frente a Escola Básica -  Dezembro 2024 ;PALHOÇA;PALHOÇA, Avenida Vidal Procópio Lohn, 1081;-27.6637125;-48.6640038
+101;PEV  102;PEV 102  PALHOÇA;Rua Sebastião Alzemiro dos Santos, 214;EEB Prof Angelo Cascaes Tancredo - Caminho Novo -  Dezembro 2024;PALHOÇA;PALHOÇA, Rua Sebastião Alzemiro dos Santos, 214;-27.6498434;-48.7024705
+102;PEV  103;PEV 103  PALHOÇA;Av. Paulo Roberto Vidal, 2494;após o Loteamento Moradas II Frente Giga Lanches, Antes da conveniência BEN BEBIDAS - Instalado em Abril 2024;PALHOÇA;PALHOÇA, Av. Paulo Roberto Vidal, 2494;-27.6469309;-48.7141622
+103;PEV  104;PEV 104  PALHOÇA;Rua Tomaz Domingos da Silveira, 2915;Praça São Sebastião - LE Ponto de Ônibus -  Dezembro 2024;PALHOÇA;PALHOÇA, Rua Tomaz Domingos da Silveira, 2915;-27.6397691;-48.7105823
+104;PEV  105;PEV 105  PALHOÇA;Rua João Bernardino da Rosa, S/N - IFSC - Pedra Branca;IFSC -Unidade Pedra Branca - LE ponto de Ônibus -  Dezembro 2024;PALHOÇA;PALHOÇA, Rua João Bernardino da Rosa, S/N - IFSC - Pedra Branca;-27.5942369;-48.5431402
+105;PEV  106;PEV 106  PALHOÇA;Avenida Paulo Roberto Vidal, 1455 - Caminho Novo ;Condomínio Terra Nova  Dezembro 2024;PALHOÇA;PALHOÇA, Avenida Paulo Roberto Vidal, 1455 - Caminho Novo;-27.6527603;-48.7090586
+106;PEV  107;PEV 107  PALHOÇA;Rua Nereu Ghizoni, 875 - Guarda do Cubatão;Grand Ville Residencial Clube -  Dezembro 2024;PALHOÇA;PALHOÇA, Rua Nereu Ghizoni, 875 - Guarda do Cubatão;-27.694742;-48.6713169
+107;PEV  108;PEV 108  PALHOÇA;Rua Ari Amâncio da Silveira, 718 - Praia de Fora ;Antes do Ari Bar - Praia de Fora -  Dezembro 2024;PALHOÇA;PALHOÇA, Rua Ari Amâncio da Silveira, 718 - Praia de Fora;-27.7478825;-48.6240639
+108;PEV  109;PEV 109  PALHOÇA;DEFINIR LOCAL;;PALHOÇA;PALHOÇA, DEFINIR LOCAL;-27.6312008;-48.6672423
+109;PEV  110;PEV 110  PALHOÇA;Rua Arcanjo Candido da silva, 2414 - Praia de Fora;Esquina com Oscar Martinho Ribeiro, 2 - Em frente a Associação catarinense dos professores -  Dezembro 2024;PALHOÇA;PALHOÇA, Rua Arcanjo Candido da silva, 2414 - Praia de Fora;-27.7384177;-48.6358648
+110;PEV  111;PEV 111  PALHOÇA;Rua da Praia, 485;Praia de Pedras Altas -  Dezembro 2024;PALHOÇA;PALHOÇA, Rua da Praia, 485;-27.7940507;-48.6320191
+111;PEV  112;PEV 112  PALHOÇA;DEFINIR LOCAL;;PALHOÇA;PALHOÇA, DEFINIR LOCAL;-27.6312008;-48.6672423
+112;PEV  113;PEV 113  PALHOÇA;Rua Bahuan Fernandes – Parque da Barra do Aririú;Barra do Aririú - Instalado em Abril 2024;PALHOÇA;PALHOÇA, Rua Bahuan Fernandes – Parque da Barra do Aririú;-27.6781829;-48.639819
+113;PEV  114;PEV 114  PALHOÇA;Avenida Nova Aurora, 1470 - Praia do Sonho;Em frente ao BAR - Rua Capitão Buske - Dezembro 2024;PALHOÇA;PALHOÇA, Avenida Nova Aurora, 1470 - Praia do Sonho;-27.8385698;-48.58891029999999
+114;PEV  115;PEV 115  PALHOÇA;Rua José Cosme Pamplona, 1461 - Bela Vista;Frente à Casa dos Salgados;PALHOÇA;PALHOÇA, Rua José Cosme Pamplona, 1461 - Bela Vista;-27.6549983;-48.6839458
+115;PEV  116;PEV 116  PALHOÇA;Rua Germano Spricigo 859 - Caminho Novo ;Ao lado do já instalado - Instalado em Abril 2024;PALHOÇA;PALHOÇA, Rua Germano Spricigo 859 - Caminho Novo;-27.6454517;-48.68438949999999
+116;PEV  117;PEV 117  PALHOÇA;Parque do Madri;Instalado em Abril 2024;PALHOÇA;PALHOÇA, Parque do Madri;-27.6432414;-48.7030457
+117;PEV  118;PEV 118  PALHOÇA;Parque do Frei Damião;Loteamento Frei Damião  - Instalado em Abril 2024;PALHOÇA;PALHOÇA, Parque do Frei Damião;-27.6088264;-48.6675929
+118;PEV  119;PEV 119  PALHOÇA;Avenida São Cristovão 2295 - Alto Aririu;;PALHOÇA;PALHOÇA, Avenida São Cristovão 2295 - Alto Aririu;-27.6780731;-48.6898507
+119;PEV  120;PEV 120  SÃO JOSÉ;Av. Engeberto Koerich, 248 ;Unidade Básica de Saúde da Colônia Santana;SÃO JOSÉ;SÃO JOSÉ, Av. Engeberto Koerich, 248;-27.5859981;-48.7153014
+120;PEV  121;PEV 121  SÃO JOSÉ;Rua Francisco Antônio da Silva, 745 - Sertão do Maruim;Unidade Básica de Saúde Sertão do Maruim - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Francisco Antônio da Silva, 745 - Sertão do Maruim;-27.5965342;-48.6838463
+121;PEV  122;PEV 122  SÃO JOSÉ;Rua Subtenente Lairton Costa, 100 - Picadas do Sul;Entre o Ginásio Municipal de Esporte Cristiano Lino da Silva e a Unidade  Básica e Saúde Picados do Sul - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Subtenente Lairton Costa, 100 - Picadas do Sul;-27.6084202;-48.6482603
+122;PEV  123;PEV 123  SÃO JOSÉ;Rua Rudolfo Jacob Schaeffer, 350 ;Praça Parque Residencial Floresta - Nossa Senhora do Rosário;SÃO JOSÉ;SÃO JOSÉ, Rua Rudolfo Jacob Schaeffer, 350;-27.5764299;-48.6177596
+123;PEV  124;PEV 124  SÃO JOSÉ;Rua Antônio Jovita Duarte, 5013 ;Unidade Básica e Saúde – UBS FORQUILHAS;SÃO JOSÉ;SÃO JOSÉ, Rua Antônio Jovita Duarte, 5013;-27.5844281;-48.6683503
+124;PEV  125;PEV 125  SÃO JOSÉ;Av. Ceniro Luiz Ribeiro Martins, 429;Unidade Básica e Saúde – UBS Ceniro Martins;SÃO JOSÉ;SÃO JOSÉ, Av. Ceniro Luiz Ribeiro Martins, 429;-27.5761187;-48.6587079
+125;PEV  126;PEV 126  SÃO JOSÉ;Rua Ver. Arthur Manoel Mariano, 959 ;Esquina com Rua Manoel Sebastião de Souza, 2 Paróquia São Francisco de Assis;SÃO JOSÉ;SÃO JOSÉ, Rua Ver. Arthur Manoel Mariano, 959;-27.6005543;-48.6415021
+126;PEV  127;PEV 127  SÃO JOSÉ;Rua João Grumiche, 2017 ; Unidade Básica de Saúde - Roçado;SÃO JOSÉ;SÃO JOSÉ, Rua João Grumiche, 2017;-27.588041;-48.620773
+127;PEV  128;PEV 128  SÃO JOSÉ;Rua João Paulo dos Santos, 94;Esquina Rua da Independência, 917 - Ginásio Municipal de Esporte João Martins - Paróquia Santa Cruz;SÃO JOSÉ;SÃO JOSÉ, Rua João Paulo dos Santos, 94;-27.5559984;-48.6247266
+128;PEV  129;PEV 129  SÃO JOSÉ;Avenida Brasil, 56;Esquina Rua Águas de Chapeco - Ponto de Taxi - Bela Vista;SÃO JOSÉ;SÃO JOSÉ, Avenida Brasil, 56;-27.5685292;-48.6146851
+129;PEV  130;PEV 130  SÃO JOSÉ;Rua Fagundes Varela, 408;Conselho Comunitário de Areias - Areias;SÃO JOSÉ;SÃO JOSÉ, Rua Fagundes Varela, 408;-27.558006;-48.6316095
+130;PEV  131;PEV 131  SÃO JOSÉ;Rua Nossa Senhora dos Navegantes, 278;Ginásio de Esporte Jardim Zanelato - Unidade Básica de Saúde - Zanelato - ;SÃO JOSÉ;SÃO JOSÉ, Rua Nossa Senhora dos Navegantes, 278;-27.54701;-48.6441774
+131;PEV  132;PEV 132  SÃO JOSÉ;Rua Arnoldo Pedro Meira, 72 ;Supermercado Imperatriz - Bairro Ipiranga;SÃO JOSÉ;SÃO JOSÉ, Rua Arnoldo Pedro Meira, 72;-27.5621415;-48.6200385
+132;PEV  133;PEV 133  SÃO JOSÉ;Rua Álvaro Medeiros Santiago, 648;Supermercado Giasse - Areias;SÃO JOSÉ;SÃO JOSÉ, Rua Álvaro Medeiros Santiago, 648;-27.552863;-48.6224117
+133;PEV  134;PEV 134  SÃO JOSÉ;Rua Afrísio de Senna Vaz, 1109 ;Esquina com Rua Josué Orion Neto Capistrano, 414Praça Jardim Araucária - Serraria;SÃO JOSÉ;SÃO JOSÉ, Rua Afrísio de Senna Vaz, 1109;-27.5409095;-48.63783309999999
+134;PEV  135;PEV 135  SÃO JOSÉ;Rua Assis Brasil, 5698 ;Restaurante Ponta de Baixo -  Ponta de Baixo;SÃO JOSÉ;SÃO JOSÉ, Rua Assis Brasil, 5698;-27.6372321;-48.6309777
+135;PEV  136;PEV 136  SÃO JOSÉ;Rua Benjamim Gerlac, 1277 ;Igreja Santo Antônio - Fazenda do Max;SÃO JOSÉ;SÃO JOSÉ, Rua Benjamim Gerlac, 1277;-27.6184316;-48.6433717
+136;PEV  137;PEV 137  SÃO JOSÉ;Rua Gaspar Neves, 1;Esquina com Rua Coletor Irineu Comeli, 151 Praça Prefeito Arnoldo Souza - Centro Histórico;SÃO JOSÉ;SÃO JOSÉ, Rua Gaspar Neves, 1;-27.61629;-48.6274952
+137;PEV  138;PEV 138  SÃO JOSÉ;Av. Acione Souza filho, 363;Prefeitura Municipal de São José;SÃO JOSÉ;SÃO JOSÉ, Av. Acione Souza filho, 363;-27.5348179;-48.6327936
+138;PEV  139;PEV 139  SÃO JOSÉ;Rua Pedro Bunn, 374;Esquina rua Padre Justino Cortegens - Praça da Paróquia dos Sagrados Corações - Jardim cidade de Florianópolis;SÃO JOSÉ;SÃO JOSÉ, Rua Pedro Bunn, 374;-27.5663652;-48.6167629
+139;PEV  140;PEV 140  SÃO JOSÉ;Av. Acione Souza Filho, 1854 ;Beira Mar - ECOPONTO - Kobrasol;SÃO JOSÉ;SÃO JOSÉ, Av. Acione Souza Filho, 1854;-27.6024323;-48.6145929
+140;PEV  141;PEV 141  SAO JOSE; Rua Eugênio Raulino Koerich, 520; Esquina com Rua Ademar da Silva, 571  - Praça dos Motoca;SAO JOSE;SAO JOSE, Rua Eugênio Raulino Koerich, 520;-27.5966419;-48.6134043
+141;PEV  142;PEV 142  SÃO JOSÉ;Rua Vitor Meireles, 106 ; Praça RDF - Kobrasol;SÃO JOSÉ;SÃO JOSÉ, Rua Vitor Meireles, 106;-27.6000163;-48.6136929
+142;PEV  143;PEV 143  SÃO JOSÉ;Rua Antônio Scherer, 764 ;Praça Eugênio Raulino - Kobrasol;SÃO JOSÉ;SÃO JOSÉ, Rua Antônio Scherer, 764;-27.5954873;-48.61446369999999
+143;PEV  144;PEV 144  SÃO JOSÉ;Rua Brasilpinho, 168;Kobrasol;SÃO JOSÉ;SÃO JOSÉ, Rua Brasilpinho, 168;-27.5920573;-48.6142157
+144;PEV  145;PEV 145  SÃO JOSÉ;Rua Irmãos Vieira, 239 ;Supermercados Giasse - Campinas;SÃO JOSÉ;SÃO JOSÉ, Rua Irmãos Vieira, 239;-27.5918378;-48.6118658
+145;PEV  146;PEV 146  SÃO JOSÉ;Rua Gerôncio Thives, 815; Ao lado da HAVAN;SÃO JOSÉ;SÃO JOSÉ, Rua Gerôncio Thives, 815;-27.584082;-48.6127049
+146;PEV  147;PEV 147  SÃO JOSÉ;Av. Acione Souza Filho, 1854 ;Beira Mar - ECOPONTO - Kobrasol * a partir de dezembro 2023;SÃO JOSÉ;SÃO JOSÉ, Av. Acione Souza Filho, 1854;-27.6024323;-48.6145929
+147;PEV  148;PEV 148  SÃO JOSÉ;Rua Capitão Pedro Leite, 310 ;Esquina com Rua Me. Flávia Andretti,343 - Colegio Elisa Andreoli;SÃO JOSÉ;SÃO JOSÉ, Rua Capitão Pedro Leite, 310;-27.5727965;-48.6081869
+148;PEV  149;PEV 149  SÃO JOSÉ;Rua Cel Américo, 217 - Barreiros;Esquina Laudelino Souza Filho - Colocar em uma vaga de carro;SÃO JOSÉ;SÃO JOSÉ, Rua Cel Américo, 217 - Barreiros;-27.5745747;-48.6029715
+149;PEV  150;PEV 150  SÃO JOSÉ;Rua Altamiro di Bernardi, 51 ;Praça José Jordino de Sousa - Campinas;SÃO JOSÉ;SÃO JOSÉ, Rua Altamiro di Bernardi, 51;-27.5985904;-48.60741
+150;PEV  151;PEV 151  SÃO JOSÉ;Rua Osni João Vieira, 431 ; UBS Policlínica de Campinas - Esquina com Rua Jorge Lacerda - Campinas;SÃO JOSÉ;SÃO JOSÉ, Rua Osni João Vieira, 431;-27.5957474;-48.6082282
+151;PEV  152;PEV 152  SÃO JOSÉ;Avenida Leoberto Leal, 957;Praça de Barreiros- Em frente Auto Center Cabral Esquina com Rua Antônio Basil Schoreder, 7;SÃO JOSÉ;SÃO JOSÉ, Avenida Leoberto Leal, 957;-27.5690571;-48.6087246
+152;PEV  153;PEV 153  SÃO JOSÉ;Av. Osvaldo José do Amaral. 4476  ;  Supermercdos BISTEK - Av. das Torres ;SÃO JOSÉ;SÃO JOSÉ, Av. Osvaldo José do Amaral. 4476;-27.5755984;-48.6250741
+153;PEV  154;PEV 154  SÃO JOSÉ;Rua 13 de Julho, 497 - Flor de Nápolis;Praça Oscar Melo - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua 13 de Julho, 497 - Flor de Nápolis;-27.6049527;-48.64200109999999
+154;PEV  155;PEV 155  SÃO JOSÉ;Rua Princesa Isabel, 275 – Praça C. H. Forquilhinhas;Ao lado do Ecoponto - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Princesa Isabel, 275 – Praça C. H. Forquilhinhas;-27.6000542;-48.6449061
+155;PEV  156;PEV 156  SÃO JOSÉ;Rua Profª Regina M. Da Silva Waltric, 332 - Serraria;Praça Rio Três Henriques;SÃO JOSÉ;SÃO JOSÉ, Rua Profª Regina M. Da Silva Waltric, 332 - Serraria;-27.5506457;-48.6242217
+156;PEV  157;PEV 157  SÃO JOSÉ;Rua Gentil Sandim, 43 - Praia Comprida;Em frete número 43 , vaga de carro. INSTALAR;SÃO JOSÉ;SÃO JOSÉ, Rua Gentil Sandim, 43 - Praia Comprida;-27.604145;-48.627359
+157;PEV  158;PEV 158  SÃO JOSÉ;Avenida Lisboa, 866 - Forquilhinhas;Praça Lisboa – Skate Plaza - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Avenida Lisboa, 866 - Forquilhinhas;-27.5776656;-48.6679775
+158;PEV  159;PEV 159 SÃO JOSÉ;Rua Vereador Arthur Manoel Mariano, 1515 - Forquilhinhas; Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Vereador Arthur Manoel Mariano, 1515 - Forquilhinhas;-27.5961818;-48.64384159999999
+159;PEV  160;PEV 160  SÃO JOSÉ;Rua Tiradentes, 34 - Kobrasol;Esquina com Rua Jaime Arruda Ramos - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Tiradentes, 34 - Kobrasol;-27.5989642;-48.6163162
+160;PEV  161;PEV 161  SÃO JOSÉ;Rua Antônio Alfredo da Silva, 761 - Fazenda Santo Antônio; Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Antônio Alfredo da Silva, 761 - Fazenda Santo Antônio;-27.6199152;-48.6389425
+161;PEV  162;PEV 162  SÃO JOSÉ;Rua Getúlio Vargas, 671 - Centro;Referência – Clube Mare Alta -  Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Getúlio Vargas, 671 - Centro;-27.609257;-48.628253
+162;PEV  163;PEV 163  SÃO JOSÉ;Rua Coletor Irineu Comeli, 707 - Centro;Esquina com Rua Adélia Schroeder Pontes, 101 - INSTALAR;SÃO JOSÉ;SÃO JOSÉ, Rua Coletor Irineu Comeli, 707 - Centro;-27.6140992;-48.6313673
+163;PEV  164;PEV 164  SÃO JOSÉ;Rua Osvaldo Corrêa de Andrade, 274 - Floresta;Esquina Rua Dorval da Silva – Usar Vaga de carro - Ponto de Referência – Combo Atacadista   Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Osvaldo Corrêa de Andrade, 274 - Floresta;-27.5780539;-48.615258
+164;PEV  165;PEV 165  SÃO JOSÉ;Rua João José Martins, 598 - Real Parque;Ponto de Referência – Komprão Koch Atacadista -  Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua João José Martins, 598 - Real Parque;-27.5625793;-48.637958
+165;PEV  166;PEV 166  SÃO JOSÉ;Rua José Antônio Pereira, 1044 - Pedregal;Ponto de Referência - . Posto de Combustível VR - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua José Antônio Pereira, 1044 - Pedregal;-27.5694068;-48.6403608
+166;PEV  167;PEV 167  SÃO JOSÉ;Av. das Margaridas, 14 - José Nitro;Praça do Morar Bem - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Av. das Margaridas, 14 - José Nitro;-27.5413147;-48.6441194
+167;PEV  168;PEV 168  SÃO JOSÉ;Rua Wenceslau Evaristo da Silva, 1 - Praça da Vila Santa Rita;Ponto de Referência - . Residencial Flores do Mediterrâneo e Residencial - Instalado em Abril 2024;SÃO JOSÉ;SÃO JOSÉ, Rua Wenceslau Evaristo da Silva, 1 - Praça da Vila Santa Rita;-27.5444303;-48.6253243
+168;PEV  169;PEV 169  SÃO JOSÉ;Rua Josefina Borsato, 1 - Serrraria;Esquina com Rua Adélia Schroeder Pontes, 101 - INSTALAR;SÃO JOSÉ;SÃO JOSÉ, Rua Josefina Borsato, 1 - Serrraria;-27.5473131;-48.63452720000001
+169;PEV  170;PEV 170  SÃO JOSÉ;Rua Otto Júlio Malina, 1701;Em frente ao Esquenta Bebidas e Direto do Campo - INSTALAR;SÃO JOSÉ;SÃO JOSÉ, Rua Otto Júlio Malina, 1701;-27.5683874;-48.63054169999999
+170;PEV  171;PEV 171  SÃO JOSÉ;Avenida Acioni  Souza Filho, 1630 – ;Em frente a Cassol Center Lar;SÃO JOSÉ;SÃO JOSÉ, Avenida Acioni  Souza Filho, 1630 –;-27.602741;-48.6164514
+171;PEV  172;PEV 172  SÃO JOSE;Rua Fagundes  Varela, 408;ao lado do PEV 130;SÃO JOSE;SÃO JOSE, Rua Fagundes  Varela, 408;-27.558006;-48.6316095
+172;PEV  173;PEV 173  SÃO JOSÉ;RuaJoão José Martins, 226;CEI Prof. Lindomar Antônio Fabro - INSTALAR;SÃO JOSÉ;SÃO JOSÉ, RuaJoão José Martins, 226;-27.5609482;-48.6343609
+173;PEV  174;PEV 174  SÃO JOSÉ;Rua Rodney Brasil Machado, 59;Em frente ao condomínio Jardins de Cintra - INSTALAR;SÃO JOSÉ;SÃO JOSÉ, Rua Rodney Brasil Machado, 59;-27.5981374;-48.6710131
+174;PEV  175;PEV 175  SÃO JOSÉ;Rua Docilicio Luz, 632;CEM São Luiz - INSTALAR;SÃO JOSÉ;SÃO JOSÉ, Rua Docilicio Luz, 632;-27.5973997;-48.6313002
+175;PEV  176;PEV 176  SÃO JOSÉ;Rua Farroupilha, 101;Em frente ao SESI;SÃO JOSÉ;SÃO JOSÉ, Rua Farroupilha, 101;-27.5889525;-48.6072663
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+181;PEV  182;PEV 182  NOVA TRENTO;Rod. Dep. Gentil Battisti Archer, 7201 - Claraiba;Unidade Sanitária Municipal - Em frente ao Supermercados Carol;NOVA TRENTO;NOVA TRENTO, Rod. Dep. Gentil Battisti Archer, 7201 - Claraiba;-27.216361;-48.899365
+182;PEV  183;PEV 183  GOVERNADOR CELSO RAMOS;Rodovia Municipal Francisco Wollinger - SC 410, nº 2130;em frente ao Komprão ;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rodovia Municipal Francisco Wollinger - SC 410, nº 2130;-27.3162012;-48.5590734
+183;PEV  184;PEV 184  GOVERNADOR CELSO RAMOS;Rodovia Municipal Francisco Wollinger - SC 410 , Nº 550  - Praia de Calheiros;Ginásio de Esporte - em frente à LOJA BERLANDA e Vigilância Sanitária Municipal;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rodovia Municipal Francisco Wollinger - SC 410 , Nº 550  - Praia de Calheiros;-27.318569;-48.5638249
+184;PEV  185;PEV 185  GOVERNADOR CELSO RAMOS;Rua Tomaz de Souza, 227 - Areias demBaixo;Praça de Areias do Meio;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua Tomaz de Souza, 227 - Areias demBaixo;-27.3776394;-48.6132254
+185;PEV  186;PEV 186  GOVERNADOR CELSO RAMOS;Rua Alamedas das Videiras, esquina com Rua dos Pampos;Praia de Palmas;GOVERNADOR CELSO RAMOS;GOVERNADOR CELSO RAMOS, Rua Alamedas das Videiras, esquina com Rua dos Pampos;-27.3287198;-48.5388969
+186;PEV  187;PEV 187 BIGUAÇU;Rua Antônio José Garcia, 15 - Guaporanga;Ao lado dos supermercados Cachoeira e na frente da Panificadora Giopã;BIGUAÇU;BIGUAÇU, Rua Antônio José Garcia, 15 - Guaporanga;-27.3951318;-48.6324125
+187;PEV  188;PEV 188 BIGUAÇU;Rua João Luiz Duarte, 856  - Bom Viver;Em frente aos supermercados Magnos ;BIGUAÇU;BIGUAÇU, Rua João Luiz Duarte, 856  - Bom Viver;-27.5321437;-48.6371462
+188;PEV  189;PEV 189 BIGUAÇU;Rua Homero de Miranda Gomes, 984 ;Esquina Rua Neri Odilon Cardoso;BIGUAÇU;BIGUAÇU, Rua Homero de Miranda Gomes, 984;-27.523119;-48.6558561
+189;PEV  190;PEV 190 BIGUAÇU;Rodovia João Adão Reitz, 8530 (SC407) ;Ao lado da Unidade Básica de Saúde – UBS Santa Catarina;BIGUAÇU;BIGUAÇU, Rodovia João Adão Reitz, 8530 (SC407);-27.4919268;-48.7255206
+190;PEV  191;PEV 191 BIGUAÇU;Rua João José Rodrigues, 216;Ao lado do Ponto de Onibus;BIGUAÇU;BIGUAÇU, Rua João José Rodrigues, 216;-27.4994859;-48.6628528
+191;PEV  192;PEV 192  S. J. BATISTA;DEFINIR LOCAL;;S. J. BATISTA;S. J. BATISTA, DEFINIR LOCAL;-27.2778852;-48.85234579999999
+192;PEV  193;PEV 193  TIJUCAS;DEFINIR LOCAL;;TIJUCAS;TIJUCAS, DEFINIR LOCAL;-27.240063;-48.63361829999999
+193;PEV  194;PEV 194  Alfredo Wagner;Rua Padre Cristovão Arnald, 700;Em frente ao Bar Oasis;Alfredo Wagner;Alfredo Wagner, Rua Padre Cristovão Arnald, 700;-27.6945855;-49.3390808

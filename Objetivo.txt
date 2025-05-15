@@ -1,0 +1,4 @@
+fazer cross validation não train test split
+
+tabela:
+Nome da pev, latitude, longitude, [um coluna com a distancia de cada PEV], média de rendimento da PEV (target)
