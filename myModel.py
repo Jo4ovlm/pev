@@ -6,26 +6,67 @@ class myModel:
     def f(self, params, dist):
         return params[0]*dist**3 + params[1]*dist**2 + params[2]*dist + params[3]
     
-    def retornaMedia(self, params, row, target):
-        soma = 0                                  # inicializa a variavel que vai ser somada os valores de f()*media[j]
-        sumDivisor = 0                            # inicaliza a variavel que vai ser somada os valores de f()
-        for j in range(2,len(row)):               # Pra cada coluna de distancia na linha:
-            if row.iloc[j] != 0:                  # Ignora as colunas da diagonal com a distancia pra propria pev
-                peso = self.f(params, row.iloc[j])# faz o calculo com base nos parametros e na distancia da pev j
-                soma += peso * target.iloc[j-2]   # faz soma += retorno da f(distancia entre pev[i] e pev[j]) * media de rendimento da pev j 
-                sumDivisor += peso                # soma o retorno da f() a soma do divisor
-        if sumDivisor == 0:                       # evitar divisão por zero
-            return 0
-        else:
-            return soma / sumDivisor              # media é a soma dos resultados de f() ponderados pelas medias j, dividido pela soma sem ponderar
+    def getPevIndex(self, nome_coluna):
+        return float(''.join(filter(str.isdigit, nome_coluna))) -1
+    
+    def retornaMediaTreino(self, params, row, target):
+        soma = 0
+        sumDivisor = 0
+        for j in range(2, len(row)):
+            if row.iloc[j] != 0:
+                peso = self.f(params, row.iloc[j])
+                nome_coluna = row.index[j]         # Ex: 'pev5'
+                idx_target = self.getPevIndex(nome_coluna)  # → 5.0
+                if idx_target in target:
+                    soma += peso * target[idx_target]
+                    sumDivisor += peso
+        return 0 if sumDivisor == 0 else soma / sumDivisor             # media é a soma dos resultados de f() ponderados pelas medias j, dividido pela soma sem ponderar
         
     
     def calculaErro(self, params, dataset_Treino, target):
         erro = np.zeros(len(dataset_Treino))          # inicializa o array que vai guardar o erro
         medias = np.zeros(len(dataset_Treino))        # inicializa o array que vai guardar as medias
         for i,row in dataset_Treino.iterrows():       # Pra cada linha do dataset:
-            erro[i] = (self.retornaMedia(params, row, target) - target.iloc[i])**2  # erro = y_predito - y_real ao quadrado
+            erro[i] = (self.retornaMediaTreino(params, row, target) - target.iloc[i])**2  # erro = y_predito - y_real ao quadrado
         #print(f"params: {params}, peso_medio: {media}, real: {target.iloc[i]}, erro: {(media - target.iloc[i])**2}")
         return sum(erro)                              #retorna a soma do erro
+    
+    def getClosestPevIndex(self, row, dataset_treino):
+        lat = row["latitude"]
+        long = row["longitude"]
+        closest = 0
+        row.drop("latitude", axis=1)
+        row.drop("longitude", axis=1)
+        for i in range(0,len(row)):
+            if((row.iloc[i] < row.iloc[closest] or i == 0) and row.iloc[i] != 0):
+                closest = i
+        
+        
+        return closestIndex
+    
+    def calculaMediasPredicao(self, params, row, y_treino):
+        soma = 0
+        divisor = 0
+        
+        for j in range(2, len(row)):
+            dist = row.iloc[j]
+            if dist != 0:
+                peso = self.f(params, dist)
+                nome_coluna = row.index[j]               # Ex: 'pev5'
+                idx_pev = self.getPevIndex(nome_coluna)  # Ex: 5.0
+                if idx_pev in y_treino:
+                    m_j = y_treino[idx_pev]              # Usa o índice, não posição
+                    soma += peso * m_j
+                    divisor += peso
+
+        return 0 if divisor == 0 else soma / divisor
+        
+    
+    def preve(self, params,dataset_teste, y_treino):
+        y_predito = np.zeros(len(dataset_teste))
+        for i,row in dataset_teste.iterrows():
+            y_predito[i] = self.calculaMediasPredicao(params,row, y_treino)
+            
+        return y_predito
 
             
