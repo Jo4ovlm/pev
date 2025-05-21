@@ -1,10 +1,12 @@
 import pandas as pd
 import numpy as np
+from math import log
 
 class myModel:
+    X_treino = pd.DataFrame()
     
     def f(self, params, dist):
-        return params[0]*dist**3 + params[1]*dist**2 + params[2]*dist + params[3]
+        return params[0]*dist**4 + params[1]*dist**3 + params[2]*dist**2 + params[3]*dist + params[4]
     
     def getPevIndex(self, nome_coluna):
         return float(''.join(filter(str.isdigit, nome_coluna))) -1
@@ -24,36 +26,31 @@ class myModel:
         
     
     def calculaErro(self, params, dataset_Treino, target):
+        self.X_treino = dataset_Treino
         erro = np.zeros(len(dataset_Treino))          # inicializa o array que vai guardar o erro
         medias = np.zeros(len(dataset_Treino))        # inicializa o array que vai guardar as medias
+        j =0                                          # j = indice sequencial da posição no dataset
         for i,row in dataset_Treino.iterrows():       # Pra cada linha do dataset:
-            erro[i] = (self.retornaMediaTreino(params, row, target) - target.iloc[i])**2  # erro = y_predito - y_real ao quadrado
+            erro[j] = (self.retornaMediaTreino(params, row, target) - target.iloc[j])**2 # erro = y_predito - y_real ao quadrado
+            j += 1      
         #print(f"params: {params}, peso_medio: {media}, real: {target.iloc[i]}, erro: {(media - target.iloc[i])**2}")
         return sum(erro)                              #retorna a soma do erro
     
-    def getClosestPevIndex(self, row, dataset_treino):
-        lat = row["latitude"]
-        long = row["longitude"]
-        closest = 0
-        row.drop("latitude", axis=1)
-        row.drop("longitude", axis=1)
-        for i in range(0,len(row)):
-            if((row.iloc[i] < row.iloc[closest] or i == 0) and row.iloc[i] != 0):
-                closest = i
-        
-        
-        return closestIndex
     
     def calculaMediasPredicao(self, params, row, y_treino):
+        lat = row["latitude"]
+        long = row["longitude"]
         soma = 0
         divisor = 0
-        
-        for j in range(2, len(row)):
+        row = row.drop("latitude")
+        row = row.drop("longitude")
+        for j in range(0, len(row)):
+            lat #latitude do j
+            long #longitude do j
             dist = row.iloc[j]
             if dist != 0:
                 peso = self.f(params, dist)
-                nome_coluna = row.index[j]               # Ex: 'pev5'
-                idx_pev = self.getPevIndex(nome_coluna)  # Ex: 5.0
+                idx_pev = self.getPevIndex(row.index[j])
                 if idx_pev in y_treino:
                     m_j = y_treino[idx_pev]              # Usa o índice, não posição
                     soma += peso * m_j
